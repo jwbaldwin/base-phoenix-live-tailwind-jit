@@ -1,4 +1,8 @@
-# Habit
+# Base template library
+Includes:
+- Phoenix
+- Liveview
+- Tailwind configured with JIT
 
 To start your Phoenix server:
 
